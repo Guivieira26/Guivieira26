@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Guilherme👋
 
-I'm Guilherme !<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guivieira26&size_weight=0.5&count_weight=0.5&theme=dracula)
 
 <div  style = "display": inline_block"><br/>
