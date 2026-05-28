@@ -15,7 +15,7 @@
 
 
 ### About me
-> "Currently I'm work on Assembleia Legislativa Minas Gerais. I'm studying Computer Science on PUC Minas, where i have dedicated to improve my knowledges"
+> "Currently I'm work on my personal projects. I'm studying Computer Science on PUC Minas"
 >
 <div>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
